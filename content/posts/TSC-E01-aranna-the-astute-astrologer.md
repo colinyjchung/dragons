@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "S1E01: Aranna, the Astute Astrologer"
+title = "TSC-E01: Aranna, the Astute Astrologer"
 date = "2021-05-23"
 description = "Six Dead & Took Credit"
 tags = [
@@ -17,12 +17,14 @@ tags = [
     "Ser Merric, Knight",
     "Purple Nurple, Knight",
     "Orlan, Soldier",
-    "OSE",
     "Winter's Daughter",
     "Gavin Norman",
 ]
 categories = [
+"Roleplaying Games",
+    "OSE",
 ]
+Showtoc = true
 +++
 
 We begin, like most campaigns, at a tavern. The hearth roars, drunken folk dance on tables, scoundrels plot. We are at _The Black Pig_ in Dolmenwood. 
@@ -35,7 +37,7 @@ The wizard doesn't say much after that. No clues. Few answers. He leaves.
 
 I look at the players and ask the question all DMs have asked since 1974, "what do you do?"
 
-#### Spoilers Ahead for Gavin Norman's "Winter's Daughter" (OSE)
+## Spoilers Ahead for Gavin Norman's "Winter's Daughter" (OSE)
 
 OK, here's the truth. I first asked these four kids what they would do in a situation where they were given a quest and didn't have enough information. They had smart answers. Shop for items. Ask around for information. Find out more about this burial mound. But aside from buying a bow and a tent... they decided research was too much work. No investigation. No HUMINT work. "People are boring, I don't want to talk to them," Ser Ragnarok says.
 
@@ -77,7 +79,7 @@ They open the double door, talk to the ghost of Sir Chyde, retrieve the ring, re
 
 _/end session_
 
-#### Chekhov's Ticking Time Bombs
+## Chekhov's Ticking Time Bombs
 
 * Thork may be dead, but his wife Aranna isn't. Her inheritance? 800gp of debt to the cult of Loki.
 * The nameless wizard who hired the party to retrieve the soul ring never got his ring
@@ -85,7 +87,7 @@ _/end session_
 * Two drunes of the Dolmenwood cult of sorcerers were murdered in cold blood.
 * They're filthy rich with jewelry. Better find a way to hide or bank it... bandits abound.
 
-#### DM Notes to Myself
+## DM Notes to Myself
 
 This being the first time I've properly ran a session in eighteen months, and the first true stress test of my cobbled together OSR ruleset, I forgot a few things. Most notably, dungeon time. This meant the players did not get to enjoy the joys of wandering monsters. I'll be implementing Angry's system for [random encounters](https://theangrygm.com/redesigning-random-encounters-1/) for all dungeon crawls.
 

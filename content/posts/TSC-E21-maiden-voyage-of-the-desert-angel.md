@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "S2E06: Maiden Voyage of the Desert Angel"
+title = "TSC-E21: Maiden Voyage of the Desert Angel"
 date = "2021-11-14"
 description = "Magical Amigos"
 tags = [
@@ -21,7 +21,6 @@ tags = [
     "LL",
     "Fever-Dreaming Marlinko",
     "Chris Kutalik",
-    "OSR",
     "Desert Angel Fiasco",
     "Joseph Robert Lewis",
     "Chris Kutalik",
@@ -29,6 +28,7 @@ tags = [
     "Directsun"
 ]
 categories = [
+    "OSR",
 ]
 +++
 

@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "S2E04: Vampyr Slayers?"
+title = "TSC-E19: Vampyr Slayers?"
 date = "2021-10-31"
 description = "Fireball"
 tags = [
@@ -18,11 +18,12 @@ tags = [
     "Jahura Gaus, Hedge Wizard",
     "Arden Vey, Pickpocket",
     "Daot-Daot Doubt, Apothecarist",
-    "OSE",
     "Halls of the Blood King",
     "Diogo Nogueira"
 ]
 categories = [
+    "Roleplaying Games",
+    "OSE",
 ]
 +++
 

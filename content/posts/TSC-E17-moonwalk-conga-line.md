@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "S2E02: Moonwalk Conga Line"
+title = "TSC-E17: Moonwalk Conga Line"
 date = "2021-10-10"
 description = "Destroy All Evidence"
 tags = [
@@ -17,7 +17,6 @@ tags = [
     "Gary the Snail Juno, Spy",
     "Toad Slinoor, Acolyte",
     "Jahura Gaus, Hedge Wizard",
-    "DCC",
     "Labyrinth Lord",
     "The Imperishable Sorceress",
     "Daniel J. Bishop",
@@ -25,6 +24,8 @@ tags = [
     "Directsun"  
 ]
 categories = [
+    "Roleplaying Games",
+    "DCC",
 ]
 +++
 

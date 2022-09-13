@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "S1E02: Lankmar's Ocean's Six"
+title = "TSC-E02: Lankmar's Ocean's Six"
 date = "2021-05-30"
 description = "Desert Jaguars Like Pizza"
 tags = [
@@ -16,12 +16,13 @@ tags = [
     "Orlan, Soldier",
     "Darrak, Soldier",
     "Veleris, Pickpocket",
-    "OSR",
-    "DCC",
     "Masks of Lankhmar",
     "Michael Curtis",
 ]
 categories = [
+"Roleplaying Games",
+    "OSR",
+    "DCC",
 ]
 +++
 

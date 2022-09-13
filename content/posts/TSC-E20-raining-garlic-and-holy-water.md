@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "S2E05: It's Raining Garlic and Holy Water"
+title = "TSC-E20: It's Raining Garlic and Holy Water"
 date = "2021-11-07"
 description = "To the Sun"
 tags = [
@@ -21,11 +21,11 @@ tags = [
     "Noname Weaver, Ruffian",
     "Erky Skora, Assassin",
     "Seleana Mahogany, Vampire Hunter",
-    "OSE",
     "Halls of the Blood King",
     "Diogo Nogueira"
 ]
 categories = [
+    "OSE",
 ]
 +++
 

@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "S1E03: Introducing The Snack Club"
+title = "TSC-E03: Introducing The Snack Club"
 date = "2021-06-06"
 description = "A Game of Dice"
 tags = [
@@ -15,12 +15,13 @@ tags = [
     "Darrak, Soldier",
     "Veleris, Pickpocket",
     "Lane Weaver, Soldier",
-    "OSR",
-    "DCC",
     "Masks of Lankhmar",
     "Michael Curtis",
 ]
 categories = [
+"Roleplaying Games",
+    "OSR",
+    "DCC",
 ]
 +++
 

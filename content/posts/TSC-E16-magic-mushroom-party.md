@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "S2E01: Magic Mushroom Party!"
+title = "TSC-E16: Magic Mushroom Party!"
 date = "2021-10-03"
 description = "Your Mom..."
 tags = [
@@ -19,11 +19,12 @@ tags = [
     "Coil Mahogany, Zealot",
     "Glavas Roh Tentacles, Lower Noble",
     "Gary the Snail Juno, Spy",
-    "DCC",
     "The Imperishable Sorceress",
     "Daniel J. Bishop"
 ]
 categories = [
+    "Roleplaying Games",
+    "DCC",
 ]
 +++
 

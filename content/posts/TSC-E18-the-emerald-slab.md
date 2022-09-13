@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "S2E03: The Emerald Slab"
+title = "TSC-E18: The Emerald Slab"
 date = "2021-10-17"
 description = "Spiders Everywhere"
 tags = [
@@ -22,11 +22,12 @@ tags = [
     "Arden Vey, Pickpocket",
     "Ser Erevan Weaver, Knight",
     "Daot-Daot Doubt, Apothecarist",
-    "DCC",
     "The Jeweler that Dealt in Stardust",
     "Harley Stroh"
 ]
 categories = [
+    "Roleplaying Games",
+    "DCC",
 ]
 +++
 
